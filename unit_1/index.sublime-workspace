@@ -19,7 +19,7 @@
 			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
 			"settings":
 			{
-				"buffer_size": 846,
+				"buffer_size": 947,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -28,7 +28,8 @@
 			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
 			"settings":
 			{
-				"buffer_size": 364,
+				"buffer_size": 413,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -65,13 +66,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/E/Desktop/images"
+		"/C/Users/E/Desktop/images",
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images"
 	],
 	"file_history":
 	[
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images/wingsconnect.JPG",
 		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
-		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
 		"/C/Users/E/Desktop/images/KW HP.jpg",
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
 		"/C/Users/E/Desktop/images/TalkAdventureToMe_blog.JPG",
 		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images/KWParadise.jpg",
 		"/C/Users/E/Desktop/images/KWParadise.jpg",
@@ -121,15 +124,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 846,
+						"buffer_size": 947,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								656,
+								656
 							]
 						],
 						"settings":
@@ -137,17 +140,11 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 24.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"file": "/C/Users/E/Desktop/images/KW HP.jpg",
-					"semi_transient": false,
-					"stack_index": 1,
-					"type": "image"
 				},
 				{
 					"buffer": 1,
@@ -155,15 +152,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 364,
+						"buffer_size": 413,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								264,
+								264
 							]
 						],
 						"settings":
@@ -175,7 +172,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
