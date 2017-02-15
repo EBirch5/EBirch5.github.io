@@ -19,20 +19,16 @@
 			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
 			"settings":
 			{
-				"buffer_size": 881,
+				"buffer_size": 846,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "h1 {\nfont-family: Arial; sans-serif;\ntext-align: center;\nbackground: #0344E8;\ncolor: #;\ntext-align: center;\nfont-sizeeeeeff: 22px\n}\n\np {\n\tfont-family: \"Courier New\", monospace;\n\tcolor: #eeeeff;\n\ttext-align: center\n\n}\n\tbody {\n\tbackground: #0344E8;\n\ttext-align: center;\n\tcolor: #eeeeff;\n\tfont-family: Helvetica;\n}\nhr {\n\twidth: 200px;\n}\n\n\na {\n\tfont-style: : italic;\n}",
 			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
-			"file_size": 392,
-			"file_write_time": 131316503083900265,
 			"settings":
 			{
 				"buffer_size": 364,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -69,10 +65,12 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images"
+		"/C/Users/E/Desktop/images"
 	],
 	"file_history":
 	[
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
 		"/C/Users/E/Desktop/images/KW HP.jpg",
 		"/C/Users/E/Desktop/images/TalkAdventureToMe_blog.JPG",
 		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images/KWParadise.jpg",
@@ -123,15 +121,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 881,
+						"buffer_size": 846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								881
+								182,
+								182
 							]
 						],
 						"settings":
@@ -164,13 +162,14 @@
 						"selection":
 						[
 							[
-								309,
-								309
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
