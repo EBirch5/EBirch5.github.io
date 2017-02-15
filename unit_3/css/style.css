@@ -1,0 +1,29 @@
+h1 {
+font-family: Arial; sans-serif;
+text-align: center;
+background: #0344E8;
+color: #32E6E8;
+text-align: center;
+font-size: 22px
+}
+
+p {
+	font-family: "Courier New", monospace;
+	color: #32E6E8;
+	text-align: center
+
+}
+	body {
+	background: #0344E8;
+	text-align: center;
+	color: #32E6E8;
+	font-family: Helvetica;
+}
+hr {
+	width: 200px;
+}
+
+
+a {
+	font-style: : italic;
+}
