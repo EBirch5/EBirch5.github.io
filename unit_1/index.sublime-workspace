@@ -3,15 +3,35 @@
 	{
 		"selected_items":
 		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
 			"settings":
 			{
-				"buffer_size": 223,
+				"buffer_size": 881,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "h1 {\nfont-family: Arial; sans-serif;\ntext-align: center;\nbackground: #0344E8;\ncolor: #;\ntext-align: center;\nfont-sizeeeeeff: 22px\n}\n\np {\n\tfont-family: \"Courier New\", monospace;\n\tcolor: #eeeeff;\n\ttext-align: center\n\n}\n\tbody {\n\tbackground: #0344E8;\n\ttext-align: center;\n\tcolor: #eeeeff;\n\tfont-family: Helvetica;\n}\nhr {\n\twidth: 200px;\n}\n\n\na {\n\tfont-style: : italic;\n}",
+			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
+			"file_size": 392,
+			"file_write_time": 131316503083900265,
+			"settings":
+			{
+				"buffer_size": 364,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -47,8 +67,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images"
+	],
 	"file_history":
 	[
+		"/C/Users/E/Desktop/images/KW HP.jpg",
+		"/C/Users/E/Desktop/images/TalkAdventureToMe_blog.JPG",
+		"/C/Users/E/Desktop/EBirch5.github.io/unit_3/images/KWParadise.jpg",
+		"/C/Users/E/Desktop/images/KWParadise.jpg",
 		"/C/Users/E/Desktop/unit_1/index.html",
 		"/C/Users/E/Desktop/unit_1/css/style.css",
 		"/C/Users/E/Desktop/unit_1/style.css"
@@ -59,7 +87,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 		]
@@ -91,11 +119,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 223,
+						"buffer_size": 881,
 						"regions":
 						{
 						},
@@ -103,7 +131,7 @@
 						[
 							[
 								0,
-								0
+								881
 							]
 						],
 						"settings":
@@ -115,6 +143,40 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "/C/Users/E/Desktop/images/KW HP.jpg",
+					"semi_transient": false,
+					"stack_index": 1,
+					"type": "image"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
