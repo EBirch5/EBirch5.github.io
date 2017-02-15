@@ -16,16 +16,19 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
+			"file": "/C/Users/E/Desktop/index.html",
 			"settings":
 			{
-				"buffer_size": 947,
+				"buffer_size": 943,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "h1 {\nfont-family: Arial; sans-serif;\ntext-align: center;\nbackground: #32E6E8;\ncolor: #0344E8;\ntext-align: center;\nfont-size: 24px\n}\n\np {\n\tfont-family: \"Courier New\", monospace;\n\tcolor: #0344E8;\n\ttext-align: center\n\tfont-size: 20px;\n\n}\n\tbody {\n\tbackground: #32E6E8;\n\ttext-align: center;\n\tcolor: #0344E\nhr {\n\twidth: 400px;\n\tcolor: #fff;8;\n\tfont-family: Helvetica;\n}\n}\n\n\na {\n\tfont-style: : italic;\n\tcolor: #0344E8;\n}",
 			"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/css/style.css",
+			"file_size": 444,
+			"file_write_time": 131316603269552576,
 			"settings":
 			{
 				"buffer_size": 413,
@@ -120,19 +123,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/E/Desktop/EBirch5.github.io/unit_3/index.html",
+					"file": "/C/Users/E/Desktop/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 947,
+						"buffer_size": 943,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								656,
-								656
+								293,
+								300
 							]
 						],
 						"settings":
@@ -159,8 +162,8 @@
 						"selection":
 						[
 							[
-								264,
-								264
+								391,
+								391
 							]
 						],
 						"settings":
