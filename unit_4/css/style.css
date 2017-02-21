@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Shadows+Into+Light');
+
+
 h1 {
-	font-family: Arial; sans-serif;
+	font-family: Raleway;
 	text-align: center;
 	background: #32E6E8;
 	color: #000;
@@ -12,7 +15,7 @@ h2 {
 	font-size: 18px;
 }
 p {
-	font-family: georgia, serif;
+	font-family: Shadows+Into+Light;
 	color: #000;
 	text-align: center;
 	line-height: 1.5em;
