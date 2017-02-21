@@ -1,22 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Raleway|Rock+Salt|Shadows+Into+Light');
 
 h1 {
-	font-family: Permanent+Marker;
+	font-family: Permanent Marker;
 	text-align: center;
 	background: #32E6E8;
 	color: #000;
 	font-style: italic;
-	font-size: 28px;
+	font-size: 30px;
 }
 h2 {
 	font-family: Raleway;
 	text-align: center;
-	font-size: 18px;
+	font-size: 24px;
 }
 h3 {
 	font-family: Verdana;
 	text-align: center;
-	font-size: 14px;
+	font-size: 20px;
 }
 p {
 	font-family: Shadows+Into+Light;
