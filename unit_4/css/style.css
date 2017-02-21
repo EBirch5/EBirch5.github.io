@@ -16,6 +16,7 @@ h2 {
 h3 {
 	font-family: Shadows Into Light;
 	text-align: center;
+	color: #B20E00;
 	font-size: 28px;
 }
 p {
@@ -29,7 +30,6 @@ p {
 	body {
 	background: #32E6E8;
 	text-align: center;
-	color: #B20E00;;
 }
 hr {
 	width: 200px;
