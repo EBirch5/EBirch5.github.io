@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Shadows+Into+Light');
-
+@import url('https://fonts.googleapis.com/css?family=Raleway|Rock+Salt|Shadows+Into+Light');
 
 h1 {
-	font-family: Raleway;
+	font-family: Rock+Salt;
 	text-align: center;
 	background: #32E6E8;
 	color: #000;
@@ -10,7 +9,7 @@ h1 {
 	font-size: 24px;
 }
 h2 {
-	font-family: verdana;
+	font-family: Raleway;
 	text-align: center;
 	font-size: 18px;
 }
