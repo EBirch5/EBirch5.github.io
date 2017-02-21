@@ -1,13 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Rock+Salt|Shadows+Into+Light');
 
-title {
-	font-family: Rock+Salt;
-	text-align: center;
-    font-size: 28px;
-}
-
 h1 {
-	font-family: Shadows+Intro+Light;
+	font-family: Rock+Salt;
 	text-align: center;
 	background: #32E6E8;
 	color: #000;
