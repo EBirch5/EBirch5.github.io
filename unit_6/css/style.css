@@ -53,14 +53,20 @@ nav {
 	margin: 1.8em;
 	display: inline-block;
 }
+.column {
+	width: 260px
+	height: 300px
+	padding: 20px
+	margin: 0;
+}
 #wrapper {
-	width: 1000px;
 	margin-bottom: 2em;
 	margin-left: 2em;
 	margin-right: 1em;
 	margin-top: 2em;
 	text-decoration: bold;
 	float: left;
+	width: 1200px;
 }
 #hero {
   	display: block;
@@ -70,19 +76,13 @@ nav {
 }
 div {
 	background-color: #FFED74;
-	border: 1px black solid;
 	padding: 20px;
 	font-size: 1.2em;
 	padding: 2%;
-	display: inline-block;
-}
-aside {
-	float: left;
 }
 section {
 	background-color: #EBFFDC;
-	color: #fff;
-	display: inline-block;
+	color: #fff
 }
 img {
 	text-align: center;
@@ -92,9 +92,7 @@ img {
 }
 #two_column {
     background-color: #F67D8C;
-    border: 1px black solid;
     padding: 20px;
-    display: inline-block;
 }
 #left {
     background-color: #70CE9B;
@@ -103,26 +101,26 @@ img {
     float: left;
     width: 30%;
 }
-#right {
+#offer {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
-    float: right;   
-    width: 60%;
+    float: left;   
+    width: 30%;
 }
 #samples {
     background-color: #D3F3F4;
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 100%;
 }
 #connect {
     background-color: #FFDFF6;
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 60%;
+    width: 30%;
 }
 .clearfix:after {
     visibility: hidden;
