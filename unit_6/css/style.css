@@ -61,7 +61,7 @@ nav {
 	margin-right: 1em;
 	margin-top: 2em;
 	text-decoration: bold;
-	float:left;
+	float: left;
 }
 #hero {
   	display: block;
@@ -81,9 +81,9 @@ aside {
 	float: left;
 }
 section {
-	background-color: #222;
+	background-color: #EBFFDC;
 	color: #fff;
-	overflow: auto;
+	display: inline-block;
 }
 img {
 	text-align: center;
