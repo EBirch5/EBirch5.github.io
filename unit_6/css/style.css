@@ -3,7 +3,6 @@
 h1 {
 	font-family: Permanent Marker;
 	text-align: center;
-	
 	color: #000;
 	font-style: italic;
 	font-size: 32px;
@@ -34,7 +33,7 @@ body {
 	background-size: cover;
 }
 hr {
-	width: 300px;
+	width: 200px;
 }
 header {
 	width: 450px;
@@ -50,7 +49,7 @@ nav {
 } 
 .nav {	
 	text-decoration: none;
-	color: black;
+	color: #B20E00;
 	margin: 1.8em;
 	display: inline-block;
 }
