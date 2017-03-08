@@ -34,7 +34,7 @@ body {
 	background-size: cover;
 }
 hr {
-	width: 200px;
+	width: 300px;
 }
 header {
 	width: 450px;
@@ -81,8 +81,8 @@ aside {
 	float: left;
 }
 section {
-	backgound: #222
-	color: #fff
+	background-color: #222;
+	color: #fff;
 	overflow: auto;
 }
 img {
@@ -97,7 +97,6 @@ img {
     padding: 20px;
     display: inline-block;
 }
-
 #left {
     background-color: #70CE9B;
     border: 1px black solid;
@@ -105,7 +104,6 @@ img {
     float: left;
     width: 30%;
 }
-
 #right {
     background-color: #FFE2B8;
     border: 1px black solid;
@@ -120,7 +118,6 @@ img {
     float: left;
     width: 30%;
 }
-
 #connect {
     background-color: #FFDFF6;
     border: 1px black solid;
