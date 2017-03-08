@@ -19,6 +19,11 @@ h3 {
 	color: #B20E00;
 	font-size: 28px;
 }
+h4 {
+	font-family: Permanent Marker;
+	color: #000;
+	font-size: 18px;
+	}
 p {
 	font-family: Verdana;
 	color: #000;
@@ -121,7 +126,6 @@ img {
     padding: 20px;
     float: right;   
     width: 30%;
-    display: inline-block;
 }
 .clearfix:after {
     visibility: hidden;
