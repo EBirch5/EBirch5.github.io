@@ -59,12 +59,7 @@ nav {
 	margin: 1em;
 	display: inline-block;
 }
-.column {
-	width: 20%;
-	height: 30%;
-	padding: 1em;
-	margin: 0;
-}
+
 #wrapper {
 	margin-bottom: 2em;
 	margin-left: 2em;
@@ -100,7 +95,7 @@ img {
     border: 1px black solid;
     float: left;
     padding: 1em;
-    width: 35%;
+    width: 29%;
     margin: .2em;
 }
 
@@ -109,7 +104,7 @@ img {
     border: 1px black solid;
     float: left;   
     padding: 1em;
-    width: 35%;
+    width: 29%;
     margin: .2em;
 }
 
@@ -118,7 +113,7 @@ img {
     border: 1px black solid;
     float: left;   
     padding: 1em;
-    width: 15%;
+    width: 29%;
     margin: .2em;
 }
 
@@ -158,20 +153,20 @@ footer {
 @media only screen and (max-width: 480px) {
 	
 	#about {
-		width: 41%;
-		padding: 1% 4%
+		width: auto;
+		padding: 1% 4%;
+		float: left;
 	}
 
 	#offer {
-		width: 41%
+		width: auto;
 		padding: 1% 4%;
-		margin: 0 px 0px 5px 5px;
-		float: right;
+		margin: 1em;
+		float: left;
 	}
 
-	#sidebar {
-		clear: both;
+	#contact {
 		padding: 1% 4%;
 		width: auto;
-		float: none;	
+		float: left;	
 	}
