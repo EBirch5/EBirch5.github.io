@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Raleway|Rock+Salt|Shadows+Into+Light');
+
+h1 {
+	font-family: Permanent Marker;
+	text-align: center;
+	color: #000;
+	font-style: italic;
+	font-size: 32px;
+}
+h2 {
+	font-family: Raleway;
+	text-align: center;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+h3 {
+	font-family: Shadows Into Light;
+	text-align: center;
+	color: #B20E00;
+	font-size: 28px;
+}
+h4 {
+	font-family: Permanent Marker;
+	color: #000;
+	font-size: 18px;
+	}
+p {
+	font-family: Verdana;
+	color: #000;
+	text-align: center;
+	line-height: 1em;
+	margin: 2em;
+	font-size: 14px;
+}
+body {
+	background: #8ED2D1;
+	text-align: center;
+	background-size: cover;
+	font-size: 16px;
+}
+hr {
+	width: 200px;
+}
+header {
+	width: 450px;
+	margin-bottom: 2em;
+	padding: 20px;
+}
+nav {
+	font-size: 18px;
+	font-family: Raleway;
+ 	float: left;
+ 	margin-top: 3em;
+ 	margin-bottom: 3em;
+} 
+.nav {	
+	text-decoration: none;
+	color: #B20E00;
+	margin: 1.8em;
+	display: inline-block;
+}
+.column {
+	width: 260px;
+	height: 300px;
+	padding: 20px;
+	margin: 0;
+}
+#wrapper {
+	margin-bottom: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-top: 2em;
+	text-decoration: bold;
+	float: left;
+	width: 960px;
+}
+#hero {
+  	display: block;
+  	width: 100%;
+  	margin: 0;
+  	background: #30B3BB;
+}
+div {
+	background-color: #FFED74;
+	padding: 20px;
+	font-size: 1.2em;
+	padding: 2%;
+}
+section {
+	background-color: #EBFFDC;
+	color: #fff
+}
+img {
+	text-align: center;
+	margin: .2em;
+	width: 225px;
+	float: left;
+}
+#two_column {
+    background-color: #F67D8C;
+    
+}
+#left {
+    background-color: #C1E7E2;
+    border: 1px black solid;
+    float: left;
+    padding: 5px 15px;
+    width: 30%;
+}
+#offer {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    float: left;   
+    padding: 5px 15px;
+    width: 30%;
+    margin: 0px 5px 5px 5px;
+}
+
+#connect {
+    background-color: #FFBEB4;
+    border: 1px black solid;
+    float: left;   
+    padding: 5px 15px;
+    width: 30%;
+}
+
+#samples {
+    background-color: #F3E9F4;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 90%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+footer {
+	clear: both;
+}
+.footer {
+	font-family: Shadows Into Light;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 1em 0;
+	clear: both;
+}
+
+@-ms-viewport{
+	width: device-width;
+}
+
+@media only screen and (max-width: 480px) {
+	
+	#left {
+		width: 41%;
+		padding: 1% 4%
+	}
+	#offer {
+		width: 41%
+		padding: 1% 4%;
+		margin: 0 px 0px 5px 5px;
+		float: right;
+	}
+	#sidebar {
+		clear: both;
+		padding: 1% 4%;
+		width: auto;
+		float: none;	
+	}
