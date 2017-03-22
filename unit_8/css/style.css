@@ -91,34 +91,34 @@ img {
 }
 #about {
     background-color: #C1E7E2;
-    border: .1em black solid;
+    border: .1em gray solid;
     float: left;
     padding: 1em;
-    width: 29%;
+    width: 34%;
     margin: .2em;
 }
 
 #offer {
     background-color: #FFE2B8;
-    border: .1em black solid;
+    border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 29%;
+    width: 34%;
     margin: .2em;
 }
 
 #connect {
     background-color: #FFBEB4;
-    border: .1em black solid;
+    border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 29%;
+    width: 15%;
     margin: .2em;
 }
 
 #samples {
     background-color: #F3E9F4;
-    border: .2em black solid;
+    border: .2em gray solid;
     padding: 1em;
     float: left;
     width: 95%;
