@@ -154,6 +154,7 @@ footer {
 	#about {
 		width: 20%;
 		padding: 1% 4%;
+		margin: 1em;
 		float: left;
 	}
 
@@ -165,7 +166,8 @@ footer {
 	}
 
 	#contact {
-		padding: 1% 4%;
 		width: 20%;
+		padding: 1% 4%;
+		margin: 1em;
 		float: left;	
 	}
