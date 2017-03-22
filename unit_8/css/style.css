@@ -149,16 +149,16 @@ footer {
 	width: device-width;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 	
 	#about {
-		width: auto;
+		width: 20%;
 		padding: 1% 4%;
 		float: left;
 	}
 
 	#offer {
-		width: auto;
+		width: 20%;
 		padding: 1% 4%;
 		margin: 1em;
 		float: left;
@@ -166,6 +166,6 @@ footer {
 
 	#contact {
 		padding: 1% 4%;
-		width: auto;
+		width: 20%;
 		float: left;	
 	}
