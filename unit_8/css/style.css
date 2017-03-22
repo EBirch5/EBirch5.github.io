@@ -91,7 +91,7 @@ img {
 }
 #about {
     background-color: #C1E7E2;
-    border: 1px black solid;
+    border: .1em black solid;
     float: left;
     padding: 1em;
     width: 29%;
@@ -100,7 +100,7 @@ img {
 
 #offer {
     background-color: #FFE2B8;
-    border: 1px black solid;
+    border: .1em black solid;
     float: left;   
     padding: 1em;
     width: 29%;
@@ -109,7 +109,7 @@ img {
 
 #connect {
     background-color: #FFBEB4;
-    border: 1px black solid;
+    border: .1em black solid;
     float: left;   
     padding: 1em;
     width: 29%;
@@ -118,8 +118,8 @@ img {
 
 #samples {
     background-color: #F3E9F4;
-    border: 1px black solid;
-    padding: 20px;
+    border: .2em black solid;
+    padding: 1em;
     float: left;
     width: 95%;
 }
