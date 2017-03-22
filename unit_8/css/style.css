@@ -151,23 +151,4 @@ footer {
 
 @media only screen and (max-width: 320px) {
 	
-	#about {
-		width: 20%;
-		padding: 1%;
-		margin: 1em;
-		float: left;
-	}
-
-	#offer {
-		width: 20%;
-		padding: 1%;
-		margin: 1em;
-		float: left;
-	}
-
-	#contact {
-		width: 20%;
-		padding: 1%;
-		margin: 1em;
-		float: left;	
 	}
