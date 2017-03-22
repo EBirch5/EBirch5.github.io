@@ -5,24 +5,24 @@ h1 {
 	text-align: center;
 	color: #000;
 	font-style: italic;
-	font-size: 32px;
+	font-size: 1em;
 }
 h2 {
 	font-family: Raleway;
 	text-align: center;
-	font-size: 20px;
+	font-size: 1.5em;
 	text-transform: uppercase;
 }
 h3 {
 	font-family: Shadows Into Light;
 	text-align: center;
 	color: #B20E00;
-	font-size: 28px;
+	font-size: 1.2em;
 }
 h4 {
 	font-family: Permanent Marker;
-	color: #000;
-	font-size: 18px;
+	color: #DD1818;
+	font-size: .9em;
 	}
 p {
 	font-family: Verdana;
@@ -30,39 +30,39 @@ p {
 	text-align: center;
 	line-height: 1em;
 	margin: 2em;
-	font-size: 14px;
+	font-size: .7em;
 }
 body {
 	background: #8ED2D1;
 	text-align: center;
 	background-size: cover;
-	font-size: 16px;
+	font-size: 1em;
 }
 hr {
-	width: 200px;
+	width: 30%;
 }
 header {
-	width: 450px;
-	margin-bottom: 2em;
-	padding: 20px;
+	width: 80%;
+	margin-bottom: 1em;
+	padding: 1em;
 }
 nav {
-	font-size: 18px;
+	font-size: .8em;
 	font-family: Raleway;
  	float: left;
  	margin-top: 3em;
- 	margin-bottom: 3em;
+ 	margin-bottom: 1em;
 } 
 .nav {	
 	text-decoration: none;
 	color: #B20E00;
-	margin: 1.8em;
+	margin: 1em;
 	display: inline-block;
 }
 .column {
-	width: 260px;
-	height: 300px;
-	padding: 20px;
+	width: 20%;
+	height: 30%;
+	padding: 1em;
 	margin: 0;
 }
 #wrapper {
@@ -72,13 +72,7 @@ nav {
 	margin-top: 2em;
 	text-decoration: bold;
 	float: left;
-	width: 960px;
-}
-#hero {
-  	display: block;
-  	width: 100%;
-  	margin: 0;
-  	background: #30B3BB;
+	width: 95%;
 }
 div {
 	background-color: #FFED74;
@@ -88,40 +82,44 @@ div {
 }
 section {
 	background-color: #EBFFDC;
-	color: #fff
+	color: #fff;
+	width: 100%;
 }
 img {
-	text-align: center;
 	margin: .2em;
-	width: 225px;
+	width: 30%;
 	float: left;
 }
-#two_column {
+#three_column {
     background-color: #F67D8C;
+    width: 90%;
     
 }
-#left {
+#about {
     background-color: #C1E7E2;
     border: 1px black solid;
     float: left;
-    padding: 5px 15px;
-    width: 30%;
+    padding: 1em;
+    width: 35%;
+    margin: .2em;
 }
+
 #offer {
     background-color: #FFE2B8;
     border: 1px black solid;
     float: left;   
-    padding: 5px 15px;
-    width: 30%;
-    margin: 0px 5px 5px 5px;
+    padding: 1em;
+    width: 35%;
+    margin: .2em;
 }
 
 #connect {
     background-color: #FFBEB4;
     border: 1px black solid;
     float: left;   
-    padding: 5px 15px;
-    width: 30%;
+    padding: 1em;
+    width: 15%;
+    margin: .2em;
 }
 
 #samples {
@@ -129,7 +127,7 @@ img {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 90%;
+    width: 95%;
 }
 
 .clearfix:after {
@@ -140,9 +138,11 @@ img {
     clear: both;
     height: 0;
 }
+
 footer {
 	clear: both;
 }
+
 .footer {
 	font-family: Shadows Into Light;
 	background-color: #FF957E;
@@ -157,16 +157,18 @@ footer {
 
 @media only screen and (max-width: 480px) {
 	
-	#left {
+	#about {
 		width: 41%;
 		padding: 1% 4%
 	}
+
 	#offer {
 		width: 41%
 		padding: 1% 4%;
 		margin: 0 px 0px 5px 5px;
 		float: right;
 	}
+
 	#sidebar {
 		clear: both;
 		padding: 1% 4%;
