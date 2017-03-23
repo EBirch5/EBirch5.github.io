@@ -71,7 +71,7 @@ a {
 }
 div {
 	background-color: #FFED74;
-	padding: 20px;
+	padding: 1em;
 	font-size: 1.2em;
 	padding: 2%;
 }
@@ -84,17 +84,18 @@ img {
 	margin: .2em;
 	width: 30%;
 	float: left;
+	padding: .2em;
 }
 #three_column {
     background-color: #F67D8C;
-    width: 90%;         
+    width: 100%;         
 }
 #about {
     background-color: #C1E7E2;
     border: .1em gray solid;
     float: left;
     padding: 1em;
-    width: 100%;
+    width: 90%;
     margin: .2em;
 }
 
@@ -103,7 +104,7 @@ img {
     border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 100%;
+    width: 98%;
     margin: .2em;
 }
 
@@ -112,7 +113,7 @@ img {
     border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 100%;
+    width: 95%;
     margin: .2em;
 }
 
@@ -121,7 +122,7 @@ img {
     border: .2em gray solid;
     padding: 1em;
     float: left;
-    width: 100%;
+    width: 95%;
 }
 
 .clearfix:after {
