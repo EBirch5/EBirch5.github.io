@@ -53,7 +53,7 @@ nav {
  	margin-top: 3em;
  	margin-bottom: 1em;
 } 
-.nav {	
+a {	
 	text-decoration: none;
 	color: #B20E00;
 	margin: 1em;
@@ -94,7 +94,7 @@ img {
     border: .1em gray solid;
     float: left;
     padding: 1em;
-    width: 34%;
+    width: 100%;
     margin: .2em;
 }
 
@@ -103,7 +103,7 @@ img {
     border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 34%;
+    width: 100%;
     margin: .2em;
 }
 
@@ -112,7 +112,7 @@ img {
     border: .1em gray solid;
     float: left;   
     padding: 1em;
-    width: 18%;
+    width: 100%;
     margin: .2em;
 }
 
