@@ -59,7 +59,11 @@ a {
 	margin: 1em;
 	display: inline-block;
 }
-
+a:link {
+	color: black;
+	font-size: 15px;
+	text-decoration: none;
+}
 #wrapper {
 	margin-bottom: 2em;
 	margin-left: 2em;
