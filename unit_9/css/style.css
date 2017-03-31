@@ -150,8 +150,17 @@ footer {
 	clear: both;
 }
 
-@-ms-viewport{
-	width: device-width;
+a:hover {
+	color: red;
 }
 
-@media screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)
+@media screen and (max-width: 600px)  {
+	#samples img {
+		width: 100%;
+		float:none;
+	}
+
+	#wrapper img {
+		width: 100%;
+	}
+}
