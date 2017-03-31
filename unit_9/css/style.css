@@ -151,7 +151,7 @@ footer {
 }
 
 a:hover {
-	color: red;
+	color: orange;
 }
 
 @media screen and (max-width: 600px)  {
