@@ -61,7 +61,7 @@ a {
 }
 a:hover {
 	color: #A400ff;
-	font-size: 15px;
+	font-size: 1.2em;
 	text-decoration: none;
 }
 #wrapper {
