@@ -164,3 +164,13 @@ a:hover {
 		width: 100%;
 	}
 }
+@media screen and (max-width: 1003px)  {
+	#samples img {
+		width: 100%;
+		float:none;
+	}
+
+	#wrapper img {
+		width: 100%;
+	}
+}
